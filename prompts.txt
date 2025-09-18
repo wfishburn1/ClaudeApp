@@ -1,0 +1,9 @@
+Prompt Log
+Prompt 1
+Write each prompt I send to you into a file prompts.txt, so I can audit the work.
+Prompt 2
+Yes
+Prompt 3
+You'll be given the following mini-project: Feature Voting System – Let users post a feature and upvote others The project must have: ● A database ● A backend API ● A frontend UI for Android
+Prompt 4
+create the database schema design(I will use sql server management studio), the backend api using firebase and the frontend using java/kotlin with Android SDK
